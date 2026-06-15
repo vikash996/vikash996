@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vikash Panday</h1>
+<h1 align="center"> I'm Vikash Panday</h1>
 
 <h3 align="center">💻 Java Developer | DSA Learner | Web Development Enthusiast 🚀</h3>
 
