@@ -50,9 +50,15 @@
 
 ## 🌐 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/vikash996)
+<p align="left">
+<a href="https://github.com/vikash996" target="blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+</a>
 
----
+<a href="https://leetcode.com/u/vikash_panday_01/" target="blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+</p>
 
 ### ✨ Quote
 
