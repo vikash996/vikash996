@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-- 🎓 third Year College Student
+- 🎓 Third Year College Student
 - 🌱 Currently Learning **Java, DSA & Web Development**
 - 💻 Solving Problems on LeetCode & GFG
 - 🔥 Improving Problem Solving Skills Daily
